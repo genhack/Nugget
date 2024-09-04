@@ -1,4 +1,6 @@
 # CODENAME Nugget
+## Fork / mirror of leminlimez/Nugget (deleted)
+
 Unlock your device's full potential! Works on all versions iOS 17.0+
 
 Note: I am not responsible if your device bootloops. Please back up your data before using.
@@ -30,6 +32,7 @@ You need to get the mobilegestalt file that is specific to your device. To do th
 4. Place it in the same folder as the python file (or specify the path in the program)
 
 ## Credits
+- **[leminlimez](https://x.com/LeminLimez) for creating this project**
 - [JJTech](https://github.com/JJTech0130) for Sparserestore/[TrollRestore](https://github.com/JJTech0130/TrollRestore)
 - [pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
 
